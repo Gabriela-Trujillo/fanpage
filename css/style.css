@@ -8,6 +8,7 @@ body {
 }
 a {
     text-decoration: none;
+    color:pink;
 }
 
 .main {
@@ -16,4 +17,18 @@ a {
 .social-image{
     width: 30px;
     margin: 15px;
+}
+
+.header{
+    color:#ff9999;
+    background-color:pink;
+    display:flex;
+    justify-content:center;
+    font-size:40px;
+    font-style:oblique;
+}
+.navbar{
+    display:flex;
+    justify-content:space-around;
+    background-color:#ff9999;
 }
